@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>make</key>
+		<string>Alpha Rameo</string>
+		<key>model</key>
+		<array>
+			<string>T33/2 Stradale Prototipo</string>
+			<string>Montreal</string>
+			<string>Alfasud</string>
+			<string>Giulia TZ</string>
+			<string>GTV6</string>
+		</array>
+	</dict>
+	<dict>
+		<key>make</key>
+		<string>Ferrari</string>
+		<key>model</key>
+		<array>
+			<string>308</string>
+			<string>LaFerrari</string>
+			<string>288GTO</string>
+			<string>365GTB4 Daytona</string>
+		</array>
+	</dict>
+	<dict>
+		<key>make</key>
+		<string>Lamborghini</string>
+		<key>model</key>
+		<array>
+			<string>Miura</string>
+			<string>Espada</string>
+			<string>Aventador</string>
+			<string>Countash</string>
+			<string>Murcielago</string>
+		</array>
+	</dict>
+	<dict>
+		<key>make</key>
+		<string>Mclaren</string>
+		<key>model</key>
+		<array>
+			<string>M12</string>
+			<string>600LT</string>
+			<string>F1</string>
+			<string>500S</string>
+		</array>
+	</dict>
+	<dict>
+		<key>make</key>
+		<string>Jaguar</string>
+		<key>model</key>
+		<array>
+			<string>XJ220</string>
+			<string>XK</string>
+			<string>E-Type</string>
+			<string>F-Type</string>
+			<string>XJR</string>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>era</key>
+		<string>impressionism</string>
+		<key>description</key>
+		<string>Impressionism is a 19th-century art movement characterized by relatively small, thin, yet visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities (often accentuating the effects of the passage of time), ordinary subject matter, inclusion of movement as a crucial element of human perception and experience, and unusual visual angles.</string>
+	</dict>
+	<dict>
+		<key>era</key>
+		<string>neo-impressionism</string>
+		<key>description</key>
+		<string>Neo-Impressionism is a term coined by French art critic Félix Fénéon in 1886 to describe an art movement founded by Georges Seurat. Neo-impressionists used disciplined networks of dots and blocks of color in their desire to instill a sense of organization and permanence.</string>
+	</dict>
+	<dict>
+		<key>era</key>
+		<string>tonalism</string>
+		<key>description</key>
+		<string>Tonalism was an artistic style that emerged in the 1880s when American artists began to paint landscape forms with an overall tone of colored atmosphere or mist. Between 1880 and 1915, dark, neutral hues such as gray, brown or blue, often dominated compositions by artists associated with the style.</string>
+	</dict>
+</array>
+</plist>

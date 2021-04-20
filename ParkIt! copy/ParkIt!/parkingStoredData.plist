@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>location</key>
+		<array>
+			<string>39.4842953183967</string>
+			<string>-106.0660339237803</string>
+		</array>
+		<key>date</key>
+		<string>7-10-2020 08:31:27</string>
+	</dict>
+	<dict>
+		<key>location</key>
+		<array>
+			<string>40.01583</string>
+			<string>-105.251823</string>
+		</array>
+		<key>date</key>
+		<string>7-20-2020 11:47:55</string>
+	</dict>
+</array>
+</plist>
